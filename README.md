@@ -6,4 +6,4 @@ Denoising autoencoders attempt to get around this risk of identity-function affi
 
 I built an Autoencoder using the images of Brazilian model Adriana Lima which I found online. To the orginal image, I added GAUSSIAN NOISE and corrupted the pixels. Then passed the corrupted images as the input to the AutoEncoder and Predicted the output image which is denoised(Noise removed) image. The output images has removed a large volume of GUASSIAN NOISE which is apparent from the output given below.
 
-![Image of Yaktocat](https://octodex.github.com/images/denoised.png)
+![Image of Yaktocat](https://github.com/AdityaIyer2609/ImageDenoising-Using-Autoencoders.git)
