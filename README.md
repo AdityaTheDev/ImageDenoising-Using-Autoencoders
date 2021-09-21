@@ -1,0 +1,2 @@
+# ImageDenoising-Using-Autoencoders
+I built a Denoising Autoencoder to remove noise from the image. Image Denoising is the process of removing noise from the Images  The noise present in the images may be caused by various intrinsic or extrinsic conditions which are practically hard to deal with. The problem of Image Denoising is a very fundamental challenge in the domain of Image processing and Computer vision. Therefore, it plays an important role in a wide variety of domains where getting the original image is really important for robust performance.
