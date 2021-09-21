@@ -5,3 +5,5 @@ Denoising autoencoders are a stochastic version of standard autoencoders that re
 Denoising autoencoders attempt to get around this risk of identity-function affiliation by introducing noise, i.e. randomly corrupting input so that the autoencoder must then “denoise” or reconstruct the original input.
 
 I built an Autoencoder using the images of Brazilian model Adriana Lima which I found online. To the orginal image, I added GAUSSIAN NOISE and corrupted the pixels. Then passed the corrupted images as the input to the AutoEncoder and Predicted the output image which is denoised(Noise removed) image. The output images has removed a large volume of GUASSIAN NOISE which is apparent from the output given below.
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
